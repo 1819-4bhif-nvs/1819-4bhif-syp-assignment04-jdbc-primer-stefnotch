@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="1819-4bhif-syp-assignment04-jdbc-primer-stefnotch" />
+        <module name="krankenhausverwaltung" />
       </profile>
     </annotationProcessing>
   </component>

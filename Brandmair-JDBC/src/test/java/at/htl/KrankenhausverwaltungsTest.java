@@ -352,6 +352,7 @@ public class KrankenhausverwaltungsTest {
             assertThat(primaryKeyName, is("ID"));
 
             primaryKeyColumn.close();
+
         } catch (SQLException e) {
             e.printStackTrace();
         }
